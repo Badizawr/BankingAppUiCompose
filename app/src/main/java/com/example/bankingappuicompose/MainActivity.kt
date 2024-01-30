@@ -67,7 +67,7 @@ fun HomeScreen() {
             CardSection()
             Spacer(modifier = Modifier.height(16.dp))
             FinenceSection()
-            //CurreniesSection()
+            CurreniesSection()
         }
     }
 }
